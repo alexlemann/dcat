@@ -1,0 +1,10 @@
+li.cdm a { color: blue; text-decoration: none;}
+li.cardinalscholar a { color: brown; text-decoration: none;}
+li.cardcat a { color: green; text-decoration: none;}
+li { list-style: none; }
+
+#search_form { padding: 10px; width: 15em; margin-left: auto; margin-right: auto;}
+fieldset {border: none;}
+#index-status { height: 2ex; }
+#index-status { padding: 10px; }
+#button { margin-left: auto; margin-right: auto; }
