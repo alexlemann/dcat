@@ -7,7 +7,7 @@ dcat is a digital metadata catalog "multisearch" experiment. The idea behind the
 Screen Shot
 -----------
 
-.. image:: https://github.com/lemanal/dcat/raw/master/screenshot/dcat-screenshot1.png)]
+.. image:: https://github.com/lemanal/dcat/raw/master/screenshot/dcat-screenshot1.png
 
 Formats Supported
 -----------------
